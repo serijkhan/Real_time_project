@@ -1,0 +1,8 @@
+server:
+  port: 2005
+
+
+app:
+  messages:
+    welcomeMsg: Welcome to Hi-Tech-City
+    greetMsg: good morning   
